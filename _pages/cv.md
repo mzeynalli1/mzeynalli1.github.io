@@ -11,7 +11,7 @@ redirect_from:
 
 You can download my CV [here](/files/Murad_Zeynalli_CV.pdf). 
 
-<embed src="https://mzeynalli.github.io/files/Murad_Zeynalli_CV.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://mzeynalli1.github.io/files/Murad_Zeynalli_CV.pdf" type="application/pdf" width="600px" height="500px" />
 
 <!-- Publications
 ======
