@@ -12,8 +12,7 @@ main:
     url: /teaching/    
 
   - title: "CV"
-    url: /files/Murad_Zeynalli_CV.pdf
-    # url: /cv/
+    url: /cv/
     
   # - title: "Publications"
   # url: /publications/
