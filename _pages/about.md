@@ -22,9 +22,10 @@ Education
 
 Contact Information
 ======
-Department of Economics
-E.J. Ourso College of Business
-Louisiana State University
-2410 Business Education Complex
-Baton Rouge, LA 70803
+
+Department of Economics  
+E.J. Ourso College of Business  
+Louisiana State University  
+2410 Business Education Complex  
+Baton Rouge, LA 70803  
 Email: [mzeyna1@lsu.edu](mailto:mzeyna1@lsu.edu)
