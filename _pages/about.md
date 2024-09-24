@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at Louisiana State University. 
+I am a sixth-year PhD candidate in Economics at Louisiana State University. 
 
 My research interest is in the field of Labor Economics, with a particular focus on Economics of Immigration. In my job market paper, I study how immigration-induced local labor supply shocks affect workers and establishments across skill distribution in US counties. I am also interested in Economics of Religiosity and Health Economics in the contexts of local labor markets and mental health, respectively.
 
