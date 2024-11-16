@@ -13,7 +13,12 @@ Working Papers
 ======
 * [**"Human Capital, Immigration, and Skill Composition"**](/files/Murad_Zeynalli_JMP.pdf) **[Job Market Paper]**
 
+<details>
+<summary>&#9654;</summary>
+
 The spatial correlation between worker skills and industry skill-intensity has been documented. However, the causal impact of human capital on the industrial skill composition of US regions through historical persistence remains largely unknown. This paper studies how immigration-induced exogenous shifts in local human capital affect the industrial skill composition of employment and establishment shares in US counties. Leveraging quasi-random origin-by-destination immigration patterns from 1850 to 2010, I isolate exogenous variation in skill-specific local working-age population at the county level for 1970-2010. I find that an increase in medium- and high-skill population shares raises employment and establishment shares in high-skill industries and reduces them in low-skill industries. The nontradable sector captures the major portion of the positive impacts, while the tradable sector absorbs the main fraction of the negative effects. The empirical findings are consistent with a CES model, in which representative firms with differentiated products employ labor of a certain skill type more intensively.
+
+</details>
 
 * **"Holy Work: How Religiosity Shapes Local Labor Market Outcomes"** with *Mary Peshoff* (*Updated draft coming soon!*)
 
