@@ -16,7 +16,7 @@ To view my teaching statement and evaluations, please click [here](/files/Murad_
 Course Instructor
 =====
 Fall 2022 - Present 
-* ECON 2010: Principles of Macroeconomics (2 sections), [Syllabus](/files/ECON2010_Fall2024_Syllabus_MZ.pdf)
+* ECON 2010: Principles of Macroeconomics (2 sections), [Syllabus](/files/ECON2010_Spring2025_Syllabus_MZ.pdf)
 
 Tutorial Instructor
 =====
