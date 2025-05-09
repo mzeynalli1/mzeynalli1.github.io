@@ -21,7 +21,7 @@ Fall 2022 - Present
 Tutorial Instructor
 =====
 Fall 2020 - Spring 2022
-* ECON 2030: Economic Principles (4 sections)
+* ECON 2030: Economic Principles (4 sections), [Syllabus](/files/ECON2030_Spring2022_Syllabus.pdf)
 
 Teaching Assistant
 =====

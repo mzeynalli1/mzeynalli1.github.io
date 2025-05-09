@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in Economics at Louisiana State University. 
 
-My primary field of specialization is **Labor Economics,** with a particular focus on how immigration-driven regional shifts in human capital, religiosity, as well as local labor market shocks affect workers, industries, and firms. In my job market paper, I study the impacts of historical immigration-induced shifts in local human capital on the contemporary industrial skill composition of US counties. My secondary field of interest lies in **Health Economics,** with one of my current works investigating the responses of mortality and sexual health outcomes to historical immigration-driven variation in religiosity in US commuting zones. Further details on my current and future research agendas can be found in my [research statement](/files/Murad_Zeynalli_Research_Statement.pdf).
+My primary field of specialization is **Labor Economics,** with a particular focus on how immigration-driven regional shifts affect workers, industries, and firms. In my job market paper, I study the impacts of historical immigration-induced shifts in local human capital on the contemporary industrial skill composition of US counties. In a joint work with my colleague, we investigate the effects of exogenous variation in religiosity on local labor markets in the US. I also examine how immigrant legalization reforms shape firm dynamics across US sectors. Further details on my current and future research agendas can be found in my [research statement](/files/Murad_Zeynalli_Research_Statement.pdf).
 
 I am on the **2024-2025 job market** and am available for interviews!
 
