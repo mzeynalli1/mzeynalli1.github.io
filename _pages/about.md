@@ -18,7 +18,7 @@ You can access a PDF copy of my CV [here](/files/Murad_Zeynalli_CV.pdf).
 
 Education
 ======
-* PhD in Economics, Louisiana State University, 2025 (expected)
+* PhD in Economics, Louisiana State University, 2025 (Summer Graduation)
 * MS in Economics, Louisiana State University, 2021
 * BA in Economics, Baku Engineering University, 2019
 
