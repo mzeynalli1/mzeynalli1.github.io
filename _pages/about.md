@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This Fall, I will be joining the Miami University Economics Department (yes, the one in Ohio!) as a Visiting Assistant Professor of Economics.
+This Fall, I will be joining the Economics Department at Miami University (yes, the one in Ohio!) as a Visiting Assistant Professor of Economics.
 
 My primary field of specialization is **Labor Economics,** with a particular focus on how immigration-driven regional shifts affect workers, industries, and firms. In my job market paper, I study the impacts of historical immigration-induced shifts in local human capital on the contemporary industrial skill composition of US counties. In a joint work with my colleague, we investigate the effects of exogenous variation in religiosity on local labor markets in the US. I also examine how immigrant legalization reforms shape firm dynamics across US sectors. Further details on my current and future research agendas can be found in my [research statement](/files/Murad_Zeynalli_Research_Statement.pdf).
 
