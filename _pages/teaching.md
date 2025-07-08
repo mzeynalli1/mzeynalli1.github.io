@@ -11,8 +11,6 @@ Teaching Award
 =====
 **Excellence in Teaching Award, LSU Department of Economics:** 2024
 
-To view my teaching statement and evaluations, please click [here](/files/Murad_Zeynalli_Teaching_Statement.pdf).
-
 Course Instructor
 =====
 Fall 2022 - Present 
