@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-To view my research statement, please click [here](/files/Murad_Zeynalli_Research_Statement.pdf).
-
 Working Papers
 ======
 * [**"Human Capital, Immigration, and Skill Composition"**](/files/Murad_Zeynalli_JMP.pdf) **[Job Market Paper]**
