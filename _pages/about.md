@@ -8,24 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-In Fall 2025, I will be joining the Department of Economics at Miami University (yes, the one in Ohio!) as a **Visiting Assistant Professor of Economics.**
+I am a Visiting Assistant Professor of Economics in the Department of Economics at Miami University in Ohio. I received my MS and PhD in Economics from Louisiana State University.
 
-My primary field of specialization is **Labor Economics,** with a particular focus on how immigration-driven regional shifts and immigration policies affect workers, industries, and firms. In my job market paper, I study the impacts of historical immigration-induced shifts in local human capital on the contemporary industrial skill composition of US counties. In a joint work with my colleague, we investigate the effects of exogenous variation in religiosity on local labor markets in the US. I also examine how immigrant legalization reforms shape firm dynamics across US sectors.
-
-You can access a PDF copy of my CV [here](/files/Murad_Zeynalli_CV.pdf).
-
-Education
-======
-* PhD in Economics, Louisiana State University, 2025 (August)
-* MS in Economics, Louisiana State University, 2021
-* BA in Economics, Baku Engineering University, 2019
+I specialize in **Labor Economics** with a particular focus on the **Economics of Immigration**. My research examines how historical immigration-driven regional shifts and contemporary immigration policies affect workers, industries, and firms.
 
 Contact Information
 ======
 
-Department of Economics  
-E.J. Ourso College of Business  
-Louisiana State University  
-2410 Business Education Complex  
-Baton Rouge, LA 70803  
-Email: [mzeyna1@lsu.edu](mailto:mzeyna1@lsu.edu)
+Email: [zeynalm@miamioh.edu](mailto:zeynalm@miamioh.edu)

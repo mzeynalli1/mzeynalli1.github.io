@@ -20,7 +20,7 @@ We utilize a novel identification strategy to quantify the impacts of religiosit
 Works in Progress
 ======
 
-* **"Firm Creation under DACA"** (*Draft Coming Soon!*)
+* **"Firm Creation under DACA"** (*Email for Draft*)
 
 Undocumented immigration remains a central issue within US immigration policy debates, yet little is known about how legalization programs affect firm dynamics and labor market composition. In this paper, I study the impact of a particular legalization reform, Deferred Action for Childhood Arrivals (DACA), enacted in 2012, on establishment and employment outcomes. I exploit variation in pre-treatment exposure to the policy in sectors and commuting zones, using a triple-difference estimator. I find that DACA increases establishment entry by 2.4 percent in more exposed sectors and temporarily reduces exit rates, suggesting market expansion and entrepreneurship amongst formerly undocumented workers. The share of native workers rises by 2.1 percentage points, whereas that of ineligible undocumented workers declines by a similar magnitude, demonstrating labor substitution. Heterogeneity estimates across sectoral skill types reveal that these effects are concentrated in low- and medium-skill sectors. These results have important policy implications such that immigrant regularization can enhance firm dynamism and facilitate labor reallocation, without displacing native workers.
 
