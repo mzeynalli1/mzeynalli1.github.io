@@ -26,4 +26,6 @@ Undocumented immigration remains a central issue within US immigration policy de
 
 * **"The Effect of Managerial Risk Preferences on Capital Structure Decisions"** with *Joshua Scott and Eddy Junarsin*
 
+This study examines how managerial risk preferences moderate the peer firm effects on a firm's capital structure decisions. Specifically, we investigate whether the influence of peer effects on a firm’s capital structure is amplified or diminished depending on whether the firm’s CEO is risk seeking or risk averse. Understanding this interaction is important as it highlights how both market forces and individual decision-makers jointly shape firm behavior (*Analysis Ongoing*).
+
 <!-- * **"Prayers and Practices: The Impact of Religiosity on Mortality and Sexual Health Outcomes"** with *Mary Peshoff* -->
