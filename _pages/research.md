@@ -44,12 +44,12 @@ Undocumented immigration remains a central issue within US immigration policy de
 Works in Progress
 ======
 
-* **"The Effect of Managerial Risk Preferences on Capital Structure Decisions"** with *Joshua Scott and Eddy Junarsin*
+* **"The Effect of Managerial Risk Preferences on Capital Structure Decisions"** with *Joshua Scott and Eddy Junarsin* (*Analysis Ongoing*)
 
 <details>
 <summary><strong>Abstract</strong></summary>
 
-This study examines how managerial risk preferences moderate the peer firm effects on a firm's capital structure decisions. Specifically, we investigate if the influence of peer effects on a firm’s capital structure is amplified or diminished depending on whether the firm’s CEO is risk seeking or risk averse. Understanding this interaction is important as it highlights how both market forces and individual decision-makers jointly shape firm behavior *(Analysis Ongoing)*.
+This study examines how managerial risk preferences moderate the peer firm effects on a firm's capital structure decisions. Specifically, we investigate if the influence of peer effects on a firm’s capital structure is amplified or diminished depending on whether the firm’s CEO is risk seeking or risk averse. Understanding this interaction is important as it highlights how both market forces and individual decision-makers jointly shape firm behavior.
 
 </details>
 

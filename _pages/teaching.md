@@ -11,7 +11,11 @@ Teaching Award
 =====
 **Excellence in Teaching Award, LSU Department of Economics:** 2024
 
-**Courses Taught**
+<br> <!-- forces spacing between sections -->
+
+
+Courses Taught
+=====
 
 **Miami University**
 - Fall 2025
