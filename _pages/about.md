@@ -12,6 +12,8 @@ I am a Visiting Assistant Professor of Economics in the Department of Economics 
 
 I specialize in **Labor Economics** with a particular focus on the **Economics of Immigration**. My research examines how historical immigration-driven regional shifts and contemporary immigration policies affect workers, industries, and firms.
 
+At Miami, I teach Principles of Macroeconomics, emphasizing analytical tools for understanding economic issues and continually improving my teaching to ensure effective learning.
+
 Contact Information
 ======
 
