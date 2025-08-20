@@ -9,6 +9,7 @@ author_profile: true
 
 Working Papers
 ======
+
 * [**"Human Capital, Immigration, and Skill Composition"**](/files/Murad_Zeynalli_JMP.pdf) **[Job Market Paper]**
 
 <details>
@@ -17,6 +18,7 @@ Working Papers
 The spatial correlation between worker skills and industry skill-intensity is amongst the best documented features of US economic geography. However, the causal impact of human capital on the industrial skill composition of US regions remains largely unknown. This paper studies how immigration-induced shifts in historical human capital affect the contemporary industrial skill composition of US counties. Leveraging quasi-random origin-by-destination immigration patterns from 1850 to 2010, I isolate exogenous variation in skill-specific local working-age population at the county level for 1970-2010. I find that an increase in medium- and high-skill worker shares raises employment and establishment shares in high-skill industries and reduces them in low-skill industries. The nontradable sector captures the major portion of the positive impacts, while the tradable sector absorbs the main fraction of the negative effects. The empirical findings are consistent with a CES model, in which representative firms with differentiated products employ labor of a certain skill type more intensively.
 
 </details>
+
 
 * [**"Holy Work: How Religiosity Shapes Local Labor Market Outcomes"**](/files/ZP_Religiosity_Labor.pdf) with *Mary Peshoff*
 
@@ -27,9 +29,6 @@ We utilize a novel identification strategy to quantify the impacts of religiosit
 
 </details>
 
-Works in Progress
-======
-
 * **"Firm Creation under DACA"** (*Email for Draft*)
 
 <details>
@@ -39,13 +38,20 @@ Undocumented immigration remains a central issue within US immigration policy de
 
 </details>
 
+
+<br> <!-- forces spacing between sections -->
+
+Works in Progress
+======
+
 * **"The Effect of Managerial Risk Preferences on Capital Structure Decisions"** with *Joshua Scott and Eddy Junarsin*
 
 <details>
 <summary><strong>Abstract</strong></summary>
 
-This study examines how managerial risk preferences moderate the peer firm effects on a firm's capital structure decisions. Specifically, we investigate if the influence of peer effects on a firm’s capital structure is amplified or diminished depending on whether the firm’s CEO is risk seeking or risk averse. Understanding this interaction is important as it highlights how both market forces and individual decision-makers jointly shape firm behavior (*Analysis Ongoing*).
+This study examines how managerial risk preferences moderate the peer firm effects on a firm's capital structure decisions. Specifically, we investigate if the influence of peer effects on a firm’s capital structure is amplified or diminished depending on whether the firm’s CEO is risk seeking or risk averse. Understanding this interaction is important as it highlights how both market forces and individual decision-makers jointly shape firm behavior *(Analysis Ongoing)*.
 
 </details>
+
 
 <!-- * **"Prayers and Practices: The Impact of Religiosity on Mortality and Sexual Health Outcomes"** with *Mary Peshoff* -->
