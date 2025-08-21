@@ -42,7 +42,9 @@ Working Papers
   </li>
 </ul>
 
-<h2>Works in Progress</h2>
+<div style="margin-top:4px;"></div>
+Works in Progress
+======
 
 <ul class="research-list">
   <li>
