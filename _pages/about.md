@@ -14,6 +14,8 @@ I specialize in **Labor Economics** with a particular focus on the **Economics o
 
 At Miami, I teach Principles of Macroeconomics, emphasizing analytical tools for understanding economic issues and continually improving my teaching to ensure effective learning.
 
+**I am on the 2025-2026 job market.**
+
 Contact Information
 ======
 
