@@ -16,6 +16,9 @@ At Miami, I teach Principles of Macroeconomics, emphasizing analytical tools for
 
 **I am on the 2025-2026 job market.**
 
+<br> <!-- forces spacing between sections -->
+
+
 Contact Information
 ======
 
