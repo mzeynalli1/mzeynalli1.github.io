@@ -42,7 +42,7 @@ Working Papers
   </li>
 </ul>
 
-<div style="margin-top:8px;"></div>
+<br>
 
 Works in Progress
 ======
