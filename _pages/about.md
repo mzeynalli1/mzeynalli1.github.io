@@ -14,7 +14,7 @@ I specialize in **Labor Economics** with a particular focus on the **Economics o
 
 At Miami, I teach introductory macroeconomics, emphasizing analytical tools for understanding economic issues and continually improving my teaching to ensure effective learning.
 
-<em>Recipient of the <strong>Excellence in Teaching Award</strong>, Department of Economics, LSU (2024)</em>
+<em>Recipient of the <strong>Excellence in Teaching Award</strong>, Department of Economics, LSU (2024)</em>.
 
 **I am on the 2025-2026 job market.**
 
