@@ -21,7 +21,7 @@ repository               : "mzeynalli1/mzeynalli1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Murad_Zeynalli_Headshot_Aug2025.jpg"
+  avatar           : "Murad_Zeynalli_Headshot_Aug2025.jpg"
   name             : "Murad Zeynalli"
   pronouns         : # example: "he/him"  
   bio              : "Visiting Assistant Professor of Economics"
