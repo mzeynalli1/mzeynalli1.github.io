@@ -53,7 +53,7 @@ Works in Progress
     <details class="abstract">
       <summary>Abstract</summary>
       <div class="body">
-        This study examines how managerial risk preferences moderate the influence of peer firms on capital structure decisions. Using proprietary Compustat ExecuComp data from WRDS, we test whether peer effects are amplified or diminished depending on whether a CEO is risk seeking or risk averse. Our findings underscore how firm financing outcomes reflect both external pressures from peer firms and the internal dispositions of decision-makers.
+        This study examines how managerial risk preferences moderate the influence of peer firms on capital structure decisions. Using proprietary Compustat ExecuComp data from WRDS, we analyze whether peer effects are amplified or diminished depending on whether a CEO is risk seeking or risk averse. Our findings will show how firm financing outcomes reflect both external pressures from peer firms and the internal dispositions of decision-makers.
       </div>
     </details>
   </li>
@@ -65,7 +65,7 @@ Works in Progress
     <details class="abstract">
       <summary>Abstract</summary>
       <div class="body">
-        This study investigates how adverse events influence the skill composition of emigration from Mexico to the United States. While the existing literature documents both positive and negative selection of immigrants, little is known about how weather shocks and violence shape emigration patterns across skill groups. Using novel administrative *Matrícula Consular*
+        This study investigates how adverse events influence the skill composition of emigration from Mexico to the United States. While the existing literature documents both positive and negative selection of immigrants, little is known about how weather shocks and violence shape emigration patterns across skill groups. Using novel administrative <em>Matrícula Consular</em>
         data, I analyze whether low- and high-skilled individuals respond differently to such shocks at the municipality level. The findings will provide new evidence on how adverse conditions in origin communities affect both the skill distribution of Mexican emigrants and their return intentions once in the United States.
       </div>
     </details>
