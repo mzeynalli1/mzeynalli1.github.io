@@ -62,13 +62,6 @@ Works in Progress
 <ul class="research-list">
   <li>
     <strong>“Weather Shocks, Violence, and Skill-Based Emigration from Mexico”</strong> (<em>Analysis Ongoing</em>)
-    <details class="abstract">
-      <summary>Abstract</summary>
-      <div class="body">
-        This study investigates how adverse events influence the skill composition of emigration from Mexico to the United States. While the existing literature documents both positive and negative selection of immigrants, little is known about how weather shocks and violence shape emigration patterns across skill groups. Using novel administrative <em>Matrícula Consular</em>
-        data, I analyze whether low- and high-skilled individuals respond differently to such shocks at the municipality level. The findings will provide new evidence on how adverse conditions in origin communities affect both the skill distribution of Mexican emigrants and their return intentions once in the United States.
-      </div>
-    </details>
   </li>
 </ul>
 
