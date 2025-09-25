@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Visiting Assistant Professor of Economics in the Department of Economics at Miami University in Ohio. I received my PhD in Economics from Louisiana State University in August 2025.
 
-I specialize in **Labor Economics** with a particular focus on the **Economics of Immigration** and **regional labor market dynamics**. My research examines how historical immigration-driven regional shifts and contemporary immigration policies affect workers, industries, and firms across local economies. I integrate applied microeconometric methods with survey, administrative, and proprietory data to advance academic understanding and provide insights for policymaking.
+I specialize in **Labor Economics** with a particular focus on the **Economics of Immigration** and **regional labor market dynamics**. My research examines how historical ancestry-driven regional shifts and contemporary immigration policies affect workers, industries, and firms across local economies. I integrate applied microeconometric methods with survey, administrative, and proprietory data to advance academic understanding and provide insights for policymaking.
 
 At Miami, I teach introductory macroeconomics and continue to advance my research agenda.
 
