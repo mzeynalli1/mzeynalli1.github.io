@@ -24,4 +24,5 @@ At Miami, I teach introductory macroeconomics and continue to advance my researc
 Contact Information
 ======
 
-Email: [zeynalm@miamioh.edu](mailto:zeynalm@miamioh.edu)
+Work Email: [zeynalm@miamioh.edu](mailto:zeynalm@miamioh.edu)
+Personal Email: [muradzeynalli5@gmail.com](mailto:muradzeynalli5@gmail.com)
