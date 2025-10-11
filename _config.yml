@@ -30,12 +30,13 @@ author:
   uri              : # URL
   #email            : "zeynalm@miamioh.edu" 
 
-  # Load a custom stylesheet site-wide
+# add this valid defaults block (note the dash and indentation)
 defaults:
   - scope:
       path: ""
     values:
-      custom_css:
+      # AcademicPages/Minimal Mistakes reads additional styles via 'styles'
+      styles:
         - /assets/css/custom.css
 
   # Academic websites
