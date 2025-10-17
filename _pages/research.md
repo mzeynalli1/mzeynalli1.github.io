@@ -16,9 +16,15 @@ Working Papers
     <details class="abstract">
       <summary>Abstract</summary>
       <div class="body">
-        The spatial correlation between worker skills and industry skill-intensity is amongst the best documented features of US economic geography. However, the causal impact of human capital on the industrial skill composition of US regions remains largely unknown. This paper studies how ancestry-induced shifts in historical human capital affect the contemporary industrial skill composition of US counties. Leveraging quasi-random origin-by-destination immigration patterns from 1850 to 2010, I isolate exogenous variation in skill-specific local working-age population at the county level for 1970-2010. I find that an increase in medium- and high-skill worker shares raises employment and establishment shares in high-skill industries and reduces them in low-skill industries. The nontradable sector captures the major portion of the positive impacts, while the tradable sector absorbs the main fraction of the negative effects. The empirical findings are consistent with a CES model, in which representative firms with differentiated products employ labor of a certain skill type more intensively.
+        The spatial correlation between worker skills and industry skill intensity is among the best documented features of US economic geography. Yet, the causal impact of human capital on the industrial skill composition of regions remains largely unknown, despite its fundamental role in shaping how local economies to adjust to demographic changes. This paper studies how ancestry-induced shifts in historical human capital affect the contemporary industrial skill composition of US counties. Leveraging quasi-random origin-by-destination immigration patterns from 1860 to 2010, I isolate exogenous variation in skill-specific local working-age population at the county level for 1970-2010. I find that increases in medium- and high-skill worker shares raise employment and establishment shares in high-skill industries while reducing them in low-skill industries. The positive effects are concentrated in nontradable sectors, which expand in response to stronger local demand, whereas tradable sectors contract as the relative scarcity of low-skill labor reduces their local competitiveness. These findings align with a model in which firms producing differentiated goods employ labor of varying skill types with limited substitutability, implying that shifts in human capital composition induce partial but systematic reallocation of economic activity toward skill-intensive industries.
       </div>
     </details>
+
+    <ul class="presentations">
+      <li>Presented at 2025 Miami Department of Economics Brown Bag Seminar</li>
+      <li>Presented at LSU Brown Bag Seminar Series</li>
+      <li>Presented at the Southern Economic Association (SEA) Annual Meetings</li>
+    </ul>
   </li>
 
   <li>
