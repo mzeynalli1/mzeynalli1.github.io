@@ -12,7 +12,7 @@ Working Papers
 
 <ul class="research-list">
   <li>
-    <a href="/files/Murad_Zeynalli_JMP.pdf"><strong>“Human Capital, Ancestry, and Skill Composition”</strong></a> <strong>[Job Market Paper]</strong> <span style="font-style: italic;"> Under Review</span>
+    <a href="/files/Murad_Zeynalli_JMP.pdf"><strong>“Human Capital, Ancestry, and Skill Composition”</strong></a> <strong>[Job Market Paper]</strong>
     <details class="abstract">
       <summary>Abstract</summary>
       <div class="body">
