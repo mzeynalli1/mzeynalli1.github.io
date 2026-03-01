@@ -18,8 +18,8 @@ Courses Taught
 =====
 
 **Miami University**
-- Fall 2025
-  - ECO 202: Principles of Macroeconomics (4 sections)
+- Fall 2025 - Present
+  - ECO 202: Principles of Macroeconomics (4 sections in Fall 2025 & 3 sections in Spring 2026)
 
 **Louisiana State University**
 
