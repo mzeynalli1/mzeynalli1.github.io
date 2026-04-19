@@ -46,8 +46,7 @@ Working Papers
 
 <br>
 
-Works in Progress
-======
+**Works in Progress**
 
 <ul class="research-list">
   <li>
