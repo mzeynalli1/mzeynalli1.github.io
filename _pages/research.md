@@ -14,7 +14,7 @@ Working Papers
   <li>
     <a href="/files/Murad_Zeynalli_JMP.pdf"><strong>“Human Capital and Industrial Reallocation”</strong></a> <strong>[Job Market Paper]</strong>
     <br>
-    <em>Under Review at Labour Economics</em>
+    <em>Under Review</em>
     <details class="abstract">
       <summary>Abstract</summary>
       <div class="body">
@@ -26,7 +26,7 @@ Working Papers
   <li>
   <a href="/files/SZJ_Variable_Profits.pdf"><strong>“Assessing the Effects of Establishment Entry on Competition and Variable Profits”</strong></a> with <em>Joshua Scott</em> and <em>Eddy Junarsin</em>
   <br>
-  <em>Under Review at the Journal of Industry, Trade and Competition</em>
+  <em>Under Review</em>
   <details class="abstract">
     <summary>Abstract</summary>
     <div class="body">
