@@ -7,9 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching Award
+Teaching Award and Student Recognition
 =====
 **Excellence in Teaching Award, LSU Department of Economics:** 2024
+**Communication Across the Curriculum Student Recognition:** 2023
 
 <br> <!-- forces spacing between sections -->
 
@@ -18,20 +19,24 @@ Courses Taught
 =====
 
 **Miami University**
+- Fall 2026
+  - ECO 201: Principles of Microeconomics 
+- Summer 2026
+  - ECO 202: Principles of Macroeconomics (online)
 - Fall 2025 - Spring 2026
-  - ECO 202: Principles of Macroeconomics (4 sections in Fall 2025, 3 sections in Spring 2026)
+  - ECO 202: Principles of Macroeconomics
 
 **Louisiana State University**
 
 <u>Course Instructor</u>
 - Fall 2022 – Spring 2025
-  - ECON 2010: Principles of Macroeconomics (2 sections per semester)
+  - ECON 2010: Principles of Macroeconomics
 - Summer 2024
-  - ECON 2010: Principles of Macroeconomics (1 section, online)
+  - ECON 2010: Principles of Macroeconomics (online)
 
 <u>Tutorial Instructor</u>
 - Fall 2020 – Spring 2022
-  - ECON 2030: Economic Principles (4 sections per semester, hybrid)
+  - ECON 2030: Economic Principles
 
 <u>Teaching Assistant</u>
 - Fall 2019 – Spring 2020
