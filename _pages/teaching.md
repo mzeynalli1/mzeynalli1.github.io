@@ -10,7 +10,7 @@ author_profile: true
 Teaching Award and Student Recognition
 =====
 **Excellence in Teaching Award, LSU Department of Economics:** 2024
-=====
+<br>
 **Communication Across the Curriculum Student Recognition:** 2023
 
 <br> <!-- forces spacing between sections -->

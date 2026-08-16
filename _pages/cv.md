@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](/files/Murad_Zeynalli_CV.pdf). 
+You can download my CV [here](/files/Murad_Zeynalli_CV.pdf).
 
-<embed src="https://mzeynalli1.github.io/files/Murad_Zeynalli_CV.pdf" type="application/pdf" width="600px" height="500px" />
+<iframe src="https://mzeynalli1.github.io/files/Murad_Zeynalli_CV.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
 <!-- Publications
 ======
