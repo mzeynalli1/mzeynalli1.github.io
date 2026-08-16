@@ -9,9 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](/files/Murad_Zeynalli_CV.pdf).
+{% assign cv_path = '/files/Murad_Zeynalli_CV.pdf' | relative_url %}
+{% assign cv_version = site.github.build_revision | default: 'latest' %}
 
-<iframe src="https://mzeynalli1.github.io/files/Murad_Zeynalli_CV.pdf" width="100%" height="800px" style="border: none;"></iframe>
+You can [open or download my CV]({{ cv_path }}).
+
+<iframe
+  src="{{ cv_path }}?v={{ cv_version }}"
+  title="Murad Zeynalli CV"
+  width="100%"
+  height="800"
+  style="border: 0;"
+>
+  <p>Your browser cannot display the PDF. <a href="{{ cv_path }}">Open or download my CV</a>.</p>
+</iframe>
 
 <!-- Publications
 ======
