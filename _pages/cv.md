@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,19 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-{% assign cv_path = "/files/Murad_Zeynalli_CV.pdf" | relative_url %}
-{% assign cv_version = site.time | date: "%s" %}
+You can download my CV [here](/files/Murad_Zeynalli_CV.pdf).
 
-You can download my CV [here]({{ cv_path }}).
-
-<iframe
-  src="{{ cv_path }}?v={{ cv_version }}"
-  title="Murad Zeynalli CV"
-  width="100%"
-  height="800"
-  style="border: none;"
->
-</iframe>
+<iframe src="https://mzeynalli1.github.io/files/Murad_Zeynalli_CV.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
 <!-- Publications
 ======
