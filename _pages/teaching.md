@@ -23,6 +23,7 @@ Courses Taught
 - Fall 2025 - Present 
   - ECO 201: Principles of Microeconomics
   - ECO 202: Principles of Macroeconomics (in person & online)
+  
 
 **Louisiana State University**
 
