@@ -48,7 +48,7 @@ Working Papers
 <li>
   <a href="/files/Murad_Zeynalli_DACA.pdf"><strong>"Firm Creation under DACA"</strong></a>
   <div style="font-size: 0.9em; color: #666; margin-top: 0.3em; margin-bottom: 0.5em;">
-    Supported by the Institute for Humane Studies (Grant No. IHS020545)
+    <em>Supported by the Institute for Humane Studies (Grant No. IHS020545)</em>
   </div>
   <details class="abstract">
     <summary>Abstract</summary>
