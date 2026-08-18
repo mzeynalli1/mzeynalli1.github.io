@@ -60,7 +60,8 @@ Working Papers
 
 <br>
 
-<h3>Works in Progress</h3>
+Works in Progress
+=====
 
 <ul class="research-list">
   <li>
