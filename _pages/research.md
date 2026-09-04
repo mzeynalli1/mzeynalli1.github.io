@@ -66,9 +66,21 @@ Working Papers
 
 <ul class="research-list">
   <li>
+    <strong>“Learning to Set Prices During Recurring Demand Spikes”</strong> with <em>Joshua Scott and Eddy Junarsin</em> -- <em>Draft Coming Soon!</em>
+    <details class="abstract">
+      <summary>Summary</summary>
+      <div class="body">
+        This paper studies how retailers adjust prices during a predictable, recurring demand spike in a newly legal market. Retail prices fall sharply on the event day, while quantities sold and revenue increase, and these markdowns become more widespread across retailers over time. The results document the emergence and diffusion of promotional pricing across the market.
+      </div>
+    </details>
+  </li>
+</ul>
+
+<ul class="research-list">
+  <li>
     <strong>“The Effect of Managerial Risk Preferences on Capital Structure Decisions”</strong> with <em>Joshua Scott and Eddy Junarsin</em> 
     <details class="abstract">
-      <summary>Abstract</summary>
+      <summary>Summary</summary>
       <div class="body">
         This study examines how managerial risk preferences moderate the influence of peer firms on capital structure decisions. Using proprietary Compustat ExecuComp data from WRDS, we analyze whether peer effects are amplified or diminished depending on whether a CEO is risk seeking or risk averse. Our findings will show how firm financing outcomes reflect both external pressures from peer firms and the internal dispositions of decision-makers.
       </div>
